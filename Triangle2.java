@@ -1,4 +1,4 @@
-class Triangle {
+class Triangle2 {
 	
 	public static void main(String[] args) {
 		int num = 20;
