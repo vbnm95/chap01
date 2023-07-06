@@ -14,7 +14,7 @@ public class Hello {
 
 		System.out.println("\033[35m");
 		System.out.println("\033[42m");
-		System.out.print("\033[15;5H");
+		System.out.print("\033[14;3H");
 		System.out.println("Hello, HTML!");
 
 		System.out.println("\033[35m");
